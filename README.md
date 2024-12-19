@@ -1,8 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://itechnasik.com/wp-content/uploads/2023/11/Mern-Stack-Developer.png)
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
 <h3 align="center">A passionate FullStack Mern developer from India</h3>
-<img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1734642446~exp=1734646046~hmac=587395331e9668688c7e27c40fb488040b3e9396d9dfb9025124f571cdb8c908&w=900
-" alt="shubhamsharma2002" />
+<img src="https://static-00.iconduck.com/assets.00/web-developer-illustration-2005x2048-fal2biag.png" alt="shubhamsharma2002" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsharma2002&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsharma2002" /> </p>
 - 🔭 I’m currently working on **ChatApplication**
 
