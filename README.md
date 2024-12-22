@@ -3,7 +3,7 @@
 <h3 align="center">A passionate FullStack Mern developer from India</h3>
 <img src="https://static-00.iconduck.com/assets.00/web-developer-illustration-2005x2048-fal2biag.png" alt="shubhamsharma2002" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsharma2002&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsharma2002" /> </p>
-- 👨‍💻 All of my projects are available at [https://github.com/Shubhamsharma2002](https://github.com/Shubhamsharma2002)
+
 
 - 📝 My Portfoli Link [https://portfolioshubhamsharma.netlify.app/](https://portfolioshubhamsharma.netlify.app/)
 
