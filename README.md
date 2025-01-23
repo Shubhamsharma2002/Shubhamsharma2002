@@ -7,7 +7,7 @@
 
 - 📝 My Portfoli Link [https://portfolioshubhamsharma.netlify.app/](https://portfolioshubhamsharma.netlify.app/)
 
-- 💬 Ask me about **nodejs,reactjs,expressjs,Mern Stack**
+- 💬 Ask me about **nodejs,reactjs,expressjs,Mern Stack,react-native**
 
 - 📫 How to reach me **shubhamjii2002@gmail.com**
 
