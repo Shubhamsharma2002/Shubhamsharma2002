@@ -1,6 +1,6 @@
 ![MasterHead](https://itechnasik.com/wp-content/uploads/2023/11/Mern-Stack-Developer.png)
 <h1 align="center">Hi 👋, I'm Shubham Sharma </h1>
-<h3 align="center">A Passionate FullStack Mern Developer from India</h3>
+<h3 align="center">A Passionate FullStack Mern Developer from India  </h3>
 <img src="https://static-00.iconduck.com/assets.00/web-developer-illustration-2005x2048-fal2biag.png" alt="shubhamsharma2002" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsharma2002&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsharma2002" /> </p>
 
